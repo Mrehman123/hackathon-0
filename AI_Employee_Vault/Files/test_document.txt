@@ -1,0 +1,8 @@
+﻿This is a test document for the AI Employee.
+
+Please review this document and:
+1. Summarize the contents
+2. Categorize it appropriately
+3. Suggest any follow-up actions
+
+This is urgent - please process ASAP.

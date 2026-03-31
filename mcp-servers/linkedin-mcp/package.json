@@ -1,0 +1,12 @@
+{
+  "name": "linkedin-mcp",
+  "version": "0.1.0",
+  "description": "LinkedIn MCP Server for AI Employee - Post updates to LinkedIn",
+  "main": "linkedin_mcp.js",
+  "scripts": {
+    "start": "node linkedin_mcp.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0"
+  }
+}

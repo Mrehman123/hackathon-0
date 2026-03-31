@@ -1,0 +1,17 @@
+# AI Employee - Python Dependencies
+# Bronze Tier Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+watchdog>=4.0.0          # File system monitoring for watchers
+
+# Optional dependencies for future tiers
+# google-api-python-client>=2.0.0  # Gmail API (Silver Tier)
+# google-auth-httplib2>=0.1.0      # Gmail authentication
+# google-auth-oauthlib>=1.0.0      # Gmail OAuth
+# playwright>=1.40.0               # WhatsApp Web automation (Silver Tier)
+
+# Development dependencies
+# pytest>=7.0.0          # Testing
+# black>=23.0.0          # Code formatting
+# flake8>=6.0.0          # Linting

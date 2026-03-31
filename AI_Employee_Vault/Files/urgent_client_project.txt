@@ -1,0 +1,20 @@
+URGENT: Client Project Update
+
+Please review this project status and create a summary.
+
+Project: Website Redesign
+Client: ABC Corporation  
+Status: 80% complete
+Deadline: April 15, 2026
+
+Issues:
+- Waiting for client feedback on homepage design
+- Payment pending for milestone 2 ($5,000)
+- Need to schedule final review meeting
+
+Action Required:
+1. Send follow-up email to client
+2. Create invoice for milestone 2
+3. Schedule review meeting for next week
+
+This is HIGH PRIORITY - process ASAP!

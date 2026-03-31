@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "0ff49dab78051637",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac9ad3c289ab431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37710493086da3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST_QWEN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEST_QWEN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "067f7210d2299bbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "64443e4c7593da93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e487a0b5956d9ca8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8134b3c836b07a81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e875e2a23264e0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34f542c3f9d18f20",
+    "type": "split",
+    "children": [
+      {
+        "id": "2410789a3fee804a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8759168673acd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEST_QWEN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TEST_QWEN"
+            }
+          },
+          {
+            "id": "46104ef27e73a705",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEST_QWEN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TEST_QWEN"
+            }
+          },
+          {
+            "id": "52be735b2c82a301",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6396d940fe0526d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c8239ff0e0a14b0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEST_QWEN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TEST_QWEN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "37710493086da3cf",
+  "lastOpenFiles": [
+    "SILVER_TIER_TEST_RESULTS.md",
+    "AI_Employee_Vault/Briefings/2026-04-01_Daily_Briefing.md",
+    "AI_Employee_Vault/Done/FILE_silver_tier_test.md",
+    "AI_Employee_Vault/Plans/silver_tier_test_plan_20260401.md",
+    "AI_Employee_Vault/Needs_Action/FILE_silver_tier_test.md",
+    "AI_Employee_Vault/Logs/2026-04-01.md",
+    "AI_Employee_Vault/Done/FILE_urgent_client_projec_20260401_002911.md",
+    "AI_Employee_Vault/Needs_Action/FILE_urgent_client_projec_20260401_002911.md",
+    "AI_Employee_Vault/Files/urgent_client_project.txt",
+    "scripts/__pycache__/scheduler.cpython-313.pyc",
+    "scripts/__pycache__/approval_handler.cpython-313.pyc",
+    "scripts/__pycache__/orchestrator.cpython-313.pyc",
+    "scripts/__pycache__/filesystem_watcher.cpython-313.pyc",
+    "SILVER_TIER_COMPLETE.md",
+    "scripts/test_silver_tier.ps1",
+    "README_SILVER.md",
+    "scripts/scheduler.py",
+    "scripts/approval_handler.py",
+    "mcp-servers/email-mcp/package-lock.json",
+    "mcp-servers/email-mcp/node_modules/zod/v4/core/versions.d.ts",
+    "mcp-servers/email-mcp/node_modules/nodemailer/CHANGELOG.md",
+    "mcp-servers/email-mcp/node_modules/dotenv/SECURITY.md",
+    "mcp-servers/email-mcp/node_modules/dotenv/README-es.md",
+    "mcp-servers/email-mcp/node_modules/depd/History.md",
+    "mcp-servers/linkedin-mcp/node_modules/zod/README.md",
+    "mcp-servers/linkedin-mcp/node_modules/http-errors/README.md",
+    "mcp-servers/linkedin-mcp/node_modules/statuses/HISTORY.md",
+    "mcp-servers/linkedin-mcp/node_modules/http-errors/HISTORY.md",
+    "AI_Employee_Vault/Dashboard.md",
+    "TEST_QWEN.md",
+    "QWEN.md",
+    "AI_Employee_Vault/Done/FILE_test_document_20260331_223027.md",
+    "BRONZE_TIER_COMPLETE.md",
+    "AI_Employee_Vault/Done/FILE_test_document_20260331_224856.md",
+    "AI_Employee_Vault/Done/FILE_test_document_20260331_215521.md",
+    "AI_Employee_Vault/Needs_Action/FILE_test_document_20260331_224856.md"
+  ]
+}
